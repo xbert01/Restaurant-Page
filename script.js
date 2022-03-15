@@ -224,3 +224,5 @@ function deleteProduct(e) {
     JSON.stringify(updateProducts)); //updating product list 
     updateCartInfo();
 }
+
+//git test
