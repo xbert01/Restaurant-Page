@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Meat Ramen",
+        "price": "13.00",
+        "imgSrc": "/images/ramenmenu.png"
+    },
+    {
+        "name": "Egg Ramen",
+        "price": "11.05",
+        "imgSrc": "/images/ramenmenu2.png"
+    },
+    {
+        "name": "Indian Ramen",
+        "price": "10.50",
+        "imgSrc": "/images/ramenmenu3.png"
+    }
+    
+]
